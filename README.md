@@ -7,7 +7,7 @@ Ces règles de style s'appliquent à tous nos projets de développement de
 logiciels, sauf si une exigence du client stipule le contraire.
 
 Définitions
-===========
+-----------
 
 PascalCase : Aucun espacement entre les mots d'un identifiant et chaque mot
 commence par une lettre majuscule. Par exemple : ClientAddress,
@@ -28,23 +28,18 @@ UpperSnakeCase : Même chose que SnakeCase mais avec toutes les lettres en
 majuscule. Par exemple : CLIENT_ADDRESS, INVOICE_LINE_NUMBER, MEMBER.
 
 HyphenSeparatedCase : Le caractère hyphen '-' pour séparer les mots, toutes les
-lettres en minuscule. Par exemple : client-address, invoice-line_number, member.
+lettres en minuscule. Par exemple : client-address, invoice-line-number, member.
 
 Règles de nomenclature par technologie
-======================================
+--------------------------------------
 
-HTML, Jade
-----------
+### HTML, Jade
 
-CSS, Stylus
------------
+### CSS, Stylus
 
-Java, Groovy
-------------
+### Java, Groovy
 
-JSON
-----
+### JSON
 
-Javascript, CoffeeScript
-------------------------
+### Javascript, CoffeeScript
 
