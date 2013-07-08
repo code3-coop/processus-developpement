@@ -35,11 +35,26 @@ Règles de nomenclature par technologie
 
 ### HTML, Jade
 
+* Les noms des éléments et attributs sont en minuscules.
+* Les noms de classes et les valeurs des attributs id sont en
+  HyphenSeparatedCase.
+
 ### CSS, Stylus
+
+* Les noms de classes sont en HyphenSeparatedCase.
+* Les valeurs des propriétés sont en minuscules.
 
 ### Java, Groovy
 
+* http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html
+
 ### JSON
+
+* Les noms des propriétés sont en SnakeCase.
 
 ### Javascript, CoffeeScript
 
+* Les noms de variables et de fonctions sont en CamelCase.
+* Les noms de classes sont en PascalCase.
+* Les noms des propriétés dans un objet Javascript doivent suivre les règles de
+  JSON uniquement si l'objet est destiné à être sérialisé en JSON.
