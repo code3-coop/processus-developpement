@@ -27,6 +27,21 @@ membre, service_externe, numero_de_facture.
 hyphen-separated-case : Le caractère hyphen '-' pour séparer les mots, toutes les
 lettres en minuscule. Par exemple : membre, service-externe, numero-de-facture.
 
+Langue
+------
+
+Le code source peut être rédigé en anglais ou en français. La langue privilégiée
+est celle du domaine pour lequel nous rédigeons le code.
+
+Si nous devons traduire certains termes du domaine dans le code source, un
+glossaire documentant les traductions est fourni avec le code source.
+
+Les commentaires sont rédigés dans la langue où l'auteur s'exprime le mieux
+(anglais ou français).
+
+Dans un projet open-source, tout le code source et les commentaires sont en
+anglais.
+
 Règles générales
 ----------------
 
