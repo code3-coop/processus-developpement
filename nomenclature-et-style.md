@@ -45,7 +45,7 @@ Règles de nomenclature par technologie
 
 * http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html
 
-### JSON
+### JSON (API REST public)
 
 * Les noms des propriétés sont en snake_case.
 
@@ -53,5 +53,5 @@ Règles de nomenclature par technologie
 
 * Les noms de variables et de fonctions sont en camelCase.
 * Les noms de classes sont en PascalCase.
-* Les noms des propriétés dans un objet Javascript doivent suivre les règles de
-  JSON uniquement si l'objet est destiné à être sérialisé en JSON.
+* Les documents JSON sont soumis aux mêmes règles que le Javascript (sauf les
+  documents JSON d'un API REST public).
