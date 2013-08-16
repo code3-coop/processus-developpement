@@ -33,6 +33,13 @@ Règles générales
 * Indentation de 2 espaces
   * Sauf pour Java et Groovy (4 espaces)
   * Les tabulations ne sont pas permises.
+* Les identifiants doivent être conjugués au pluriel lorsqu'ils font référence à
+  une collection. Ceci inclut :
+  * les tables SQL;
+  * les collections MongoDB;
+  * les URL (routes);
+  * les variables, constantes, fonctions, méthodes, classes que l'on retrouve
+    dans le code.
 
 Règles particulières par technologie
 ------------------------------------
