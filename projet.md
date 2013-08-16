@@ -14,6 +14,12 @@ documentons :
 * La structure des répertoires du projet.
 * La procédure d'installation et d'exécution du logiciel.
 
+Licence
+-------
+
+Notre code source est distribué avec la licence GPLv3, sauf si une exigence du
+client stipule autrement.
+
 Fin de projet
 -------------
 
