@@ -55,3 +55,5 @@ Règles de nomenclature par technologie
 * Les noms de classes sont en PascalCase.
 * Les documents JSON sont soumis aux mêmes règles que le Javascript (sauf les
   documents JSON d'un API REST public).
+* Les objects stockés dans MongoDB sont soumis aux mêmes règles que le
+  Javascript.
