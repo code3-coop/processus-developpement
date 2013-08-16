@@ -57,3 +57,7 @@ Règles de nomenclature par technologie
   documents JSON d'un API REST public).
 * Les objects stockés dans MongoDB sont soumis aux mêmes règles que le
   Javascript.
+
+### SQL
+
+* Les noms de table et noms de colonne sont en snake_case.
