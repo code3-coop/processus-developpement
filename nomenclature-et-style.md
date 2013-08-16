@@ -43,6 +43,8 @@ Règles de nomenclature par technologie
 
 ### Java, Groovy
 
+Nous appliquons les règles de style d'Oracle.
+
 * http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html
 
 ### Javascript, CoffeeScript
