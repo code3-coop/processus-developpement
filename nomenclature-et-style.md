@@ -27,8 +27,15 @@ membre, service_externe, numero_de_facture.
 hyphen-separated-case : Le caractère hyphen '-' pour séparer les mots, toutes les
 lettres en minuscule. Par exemple : membre, service-externe, numero-de-facture.
 
-Règles de nomenclature par technologie
---------------------------------------
+Règles générales
+----------------
+
+* Indentation de 2 espaces
+  * Sauf pour Java et Groovy (4 espaces)
+  * Les tabulations ne sont pas permises.
+
+Règles particulières par technologie
+------------------------------------
 
 ### HTML, Jade
 
@@ -43,7 +50,7 @@ Règles de nomenclature par technologie
 
 ### Java, Groovy
 
-Nous appliquons les règles de style d'Oracle.
+Nous appliquons les règles de style suggérées par Oracle.
 
 * http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html
 
