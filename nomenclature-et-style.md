@@ -13,21 +13,18 @@ PascalCase : Aucun espacement entre les mots d'un identifiant et chaque mot
 commence par une lettre majuscule. Par exemple : ClientAddress,
 InvoiceLineNumber, Member.
 
-CamelCase : Aucun espacement entre les mots d'un identifiant et chaque mot
+camelCase : Aucun espacement entre les mots d'un identifiant et chaque mot
 commence par une lettre majuscule à l'exception du premier mot. Dans ce
-document, lorsque nous faisons référence au CamelCase, on sous-entend
+document, lorsque nous faisons référence au camelCase, on sous-entend
 lowerCamelCase. Il est inutile de spécifier la casse du premier mot car nous
 utilisons le terme PascalCase pour identifier le upperCamelCase. Par exemple :
 clientAddress, invoiceLineNumber, member.
 
-SnakeCase : Le caractère underscore '_' pour séparer les mots, toutes les
-lettres en minuscule. Aussi connu sous le nom de UnderscoreCase. Par exemple :
+snake_case : Le caractère underscore '_' pour séparer les mots, toutes les
+lettres en minuscule. Aussi connu sous le nom de underscore_case. Par exemple :
 client_address, invoice_line_number, member.
 
-UpperSnakeCase : Même chose que SnakeCase mais avec toutes les lettres en
-majuscule. Par exemple : CLIENT_ADDRESS, INVOICE_LINE_NUMBER, MEMBER.
-
-HyphenSeparatedCase : Le caractère hyphen '-' pour séparer les mots, toutes les
+hyphen-separated-case : Le caractère hyphen '-' pour séparer les mots, toutes les
 lettres en minuscule. Par exemple : client-address, invoice-line-number, member.
 
 Règles de nomenclature par technologie
@@ -37,11 +34,11 @@ Règles de nomenclature par technologie
 
 * Les noms des éléments et attributs sont en minuscules.
 * Les noms de classes et les valeurs des attributs id sont en
-  HyphenSeparatedCase.
+  hyphen-separated-case.
 
 ### CSS, Stylus
 
-* Les noms de classes sont en HyphenSeparatedCase.
+* Les noms de classes sont en hyphen-separated-case.
 * Les valeurs des propriétés sont en minuscules.
 
 ### Java, Groovy
@@ -50,11 +47,11 @@ Règles de nomenclature par technologie
 
 ### JSON
 
-* Les noms des propriétés sont en SnakeCase.
+* Les noms des propriétés sont en snake_case.
 
 ### Javascript, CoffeeScript
 
-* Les noms de variables et de fonctions sont en CamelCase.
+* Les noms de variables et de fonctions sont en camelCase.
 * Les noms de classes sont en PascalCase.
 * Les noms des propriétés dans un objet Javascript doivent suivre les règles de
   JSON uniquement si l'objet est destiné à être sérialisé en JSON.
