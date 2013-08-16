@@ -10,22 +10,22 @@ Définitions
 -----------
 
 PascalCase : Aucun espacement entre les mots d'un identifiant et chaque mot
-commence par une lettre majuscule. Par exemple : ClientAddress,
-InvoiceLineNumber, Member.
+commence par une lettre majuscule. Par exemple : Membre, ServiceExterne,
+NumeroDeFacture.
 
 camelCase : Aucun espacement entre les mots d'un identifiant et chaque mot
 commence par une lettre majuscule à l'exception du premier mot. Dans ce
 document, lorsque nous faisons référence au camelCase, on sous-entend
 lowerCamelCase. Il est inutile de spécifier la casse du premier mot car nous
 utilisons le terme PascalCase pour identifier le upperCamelCase. Par exemple :
-clientAddress, invoiceLineNumber, member.
+membre, serviceExterne, numeroDeFacture.
 
 snake_case : Le caractère underscore '_' pour séparer les mots, toutes les
 lettres en minuscule. Aussi connu sous le nom de underscore_case. Par exemple :
-client_address, invoice_line_number, member.
+membre, service_externe, numero_de_facture.
 
 hyphen-separated-case : Le caractère hyphen '-' pour séparer les mots, toutes les
-lettres en minuscule. Par exemple : client-address, invoice-line-number, member.
+lettres en minuscule. Par exemple : membre, service-externe, numero-de-facture.
 
 Règles de nomenclature par technologie
 --------------------------------------
