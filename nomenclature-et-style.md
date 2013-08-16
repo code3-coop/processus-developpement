@@ -45,10 +45,6 @@ Règles de nomenclature par technologie
 
 * http://www.oracle.com/technetwork/java/javase/documentation/codeconvtoc-136057.html
 
-### JSON (API REST public)
-
-* Les noms des propriétés sont en snake_case.
-
 ### Javascript, CoffeeScript
 
 * Les noms de variables et de fonctions sont en camelCase.
@@ -57,6 +53,10 @@ Règles de nomenclature par technologie
   documents JSON d'un API REST public).
 * Les objects stockés dans MongoDB sont soumis aux mêmes règles que le
   Javascript.
+
+### JSON (API REST public)
+
+* Les noms des propriétés sont en snake_case.
 
 ### SQL
 
