@@ -7,7 +7,7 @@ manipule.
 Node.js
 -------
 
-[Node.js](http://nodejs.org/)
+[http://nodejs.org/](http://nodejs.org/)
 Site officiel
 
 [http://www.nodebeginner.org/](http://www.nodebeginner.org/)
@@ -32,62 +32,129 @@ La suite du tutoriel précédent, pour monter des services REST avec Node.js, Ex
 Packages pour Node/Express
 --------------------------
 
-mongodb - Driver MongoDB pour Node.js : http://docs.mongodb.org/ecosystem/drivers/node-js/
-async - Simplifier la gestion des appels synchrones/asynchrones : https://github.com/caolan/async
-connect-assets - Gestion des fichiers frontend avec Express.js : https://github.com/adunkman/connect-assets
-mysql - Driver MySQL pour Node.js, très près de la BD : https://github.com/felixge/node-mysql
-node-sass - Intégrer Sass à un projet Express.js : https://github.com/sass/node-sass
-passport - Authentification avec Node/Express, supporte OAuth : http://passportjs.org/
-underscore - La librairie Underscore.js en version Node.js, utilitaires Javascript : http://underscorejs.org/
-coffee-script - Utilisation de CoffeeScript avec Express.js : https://www.npmjs.org/package/coffee-script
-jsonschema - Définition de schéma JSON pour valider les objets Javascript ou MongoDB : https://github.com/tdegrunt/jsonschema
+[http://docs.mongodb.org/ecosystem/drivers/node-js/](http://docs.mongodb.org/ecosystem/drivers/node-js/)
+mongodb - Driver MongoDB pour Node.js
+
+[https://github.com/caolan/async](https://github.com/caolan/async)
+async - Simplifier la gestion des appels synchrones/asynchrones
+
+[https://github.com/adunkman/connect-assets](https://github.com/adunkman/connect-assets)
+connect-assets - Gestion des fichiers frontend avec Express.js
+
+[https://github.com/felixge/node-mysql](https://github.com/felixge/node-mysql)
+mysql - Driver MySQL pour Node.js, très près de la BD
+
+[https://github.com/sass/node-sass](https://github.com/sass/node-sass)
+node-sass - Intégrer Sass à un projet Express.js
+
+[http://passportjs.org/](http://passportjs.org/)
+passport - Authentification avec Node/Express, supporte OAuth
+
+[http://underscorejs.org/](http://underscorejs.org/)
+underscore - La librairie Underscore.js en version Node.js, utilitaires Javascript
+
+[https://www.npmjs.org/package/coffee-script](https://www.npmjs.org/package/coffee-script)
+coffee-script - Utilisation de CoffeeScript avec Express.js
+
+[https://github.com/tdegrunt/jsonschema](https://github.com/tdegrunt/jsonschema)
+jsonschema - Définition de schéma JSON pour valider les objets Javascript ou MongoDB
 
 
 Jade
-Site : http://jade-lang.com/
-Tutoriel : http://jade-lang.com/tutorial/
+----
+
+[http://jade-lang.com/](http://jade-lang.com/)
+Site officiel
+
+[http://jade-lang.com/tutorial/](http://jade-lang.com/tutorial/)
+Tutoriel
 
 
 Stylus
-Site : http://learnboost.github.io/stylus/
-Tutoriel : http://bootstrap.pk/tutorials/getting-started-with-stylus-css-pre-processor/
+------
+
+[http://learnboost.github.io/stylus/](http://learnboost.github.io/stylus/)
+Site officiel
+
+[http://bootstrap.pk/tutorials/getting-started-with-stylus-css-pre-processor/](http://bootstrap.pk/tutorials/getting-started-with-stylus-css-pre-processor/)
+Tutoriel
 
 
 Sass
-Site : http://sass-lang.com/
-Guide : http://sass-lang.com/guide
+----
+
+[http://sass-lang.com/](http://sass-lang.com/)
+Site officiel
+
+[http://sass-lang.com/guide](http://sass-lang.com/guide)
+Guide officiel
 
 
 MongoDB
-Site : http://www.mongodb.org/
-Tutoriel : http://docs.mongodb.org/manual/tutorial/getting-started/
+-------
+
+[http://www.mongodb.org/](http://www.mongodb.org/)
+Site officiel
+
+[http://docs.mongodb.org/manual/tutorial/getting-started/](http://docs.mongodb.org/manual/tutorial/getting-started/)
+Tutoriel
 
 
 Backbone.js
-Site : http://backbonejs.org/
-Tutoriels : http://backbonetutorials.com/
+-----------
+
+[http://backbonejs.org/](http://backbonejs.org/)
+Site officiel
+
+[http://backbonetutorials.com/](http://backbonetutorials.com/)
+Tutoriels
 
 
 AngularJS
-Site : https://angularjs.org/
-Tutoriel : https://docs.angularjs.org/tutorial
+---------
+
+[https://angularjs.org/](https://angularjs.org/)
+Site officiel
+
+[https://docs.angularjs.org/tutorial](https://docs.angularjs.org/tutorial)
+Tutoriel
 
 
 Bootstrap
-Site : http://getbootstrap.com/
+---------
+
+[http://getbootstrap.com/](http://getbootstrap.com/)
+Site officiel
 
 
 REST
-Vulgarisation : http://www.looah.com/source/view/2284
-Bonnes pratiques : http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api/
+----
+
+[http://www.looah.com/source/view/2284](http://www.looah.com/source/view/2284)
+Vulgarisation
+
+[http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api/](http://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api/)
+Bonnes pratiques
 
 
 CoffeeScript
-Site : http://coffeescript.org/
-Tutoriel : http://blog.teamtreehouse.com/the-absolute-beginners-guide-to-coffeescript
+------------
+
+[http://coffeescript.org/](http://coffeescript.org/)
+Site officiel
+
+[http://blog.teamtreehouse.com/the-absolute-beginners-guide-to-coffeescript](http://blog.teamtreehouse.com/the-absolute-beginners-guide-to-coffeescript)
+Tutoriel
 
 
 Librairies Javascript frontend
-JQuery - Manipulation du DOM et requêtes Ajax : http://jquery.com/
-Underscore.js - Utilitaires Javascript : http://underscorejs.org/
-JQuery-UI - Animations et éléments UI : http://jqueryui.com/
+------------------------------
+
+[http://jquery.com/](http://jquery.com/)
+JQuery - Manipulation du DOM et requêtes Ajax
+
+[http://underscorejs.org/](http://underscorejs.org/)
+Underscore.js - Utilitaires Javascript
+
+[http://jqueryui.com/](http://jqueryui.com/)
+JQuery-UI - Animations et éléments UI
