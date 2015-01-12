@@ -146,6 +146,15 @@ Site officiel
 [http://blog.teamtreehouse.com/the-absolute-beginners-guide-to-coffeescript](http://blog.teamtreehouse.com/the-absolute-beginners-guide-to-coffeescript)
 Tutoriel
 
+[https://github.com/sleepyfox/coffeescript-koans](https://github.com/sleepyfox/coffeescript-koans)
+Exercices zen de coffee-script
+
+Grunt
+-----
+
+[http://gruntjs.com/](http://gruntjs.com/) 
+Site officiel
+
 
 Librairies Javascript frontend
 ------------------------------
